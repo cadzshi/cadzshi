@@ -1,7 +1,6 @@
 ![MasterHead](https://cdn.discordapp.com/attachments/957671708058325032/1182783116893495367/w8ZJLtJbmuph.gif?ex=6585f39e&is=65737e9e&hm=cfc5406bf191d085c3e6b4f736aad1e883f31c51c8d545942d1d308fbb098414&)
 <h1 align="center">Hi 👋, I'm Sabila Rosad</h1>
 <h3 align="center">A passionate student from indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/957671708058325032/1182779762951848097/e426702edf874b181aced1e2fa5c6cde.gif?ex=6585f07e&is=65737b7e&hm=8e90515fe786c6a197a053a55e5ad60005293804e806933abea2b599ec7d5d92&">
 <p align="left"> <a href="https://twitter.com/cadzoey" target="blank"><img src="https://img.shields.io/twitter/follow/cadzoey?logo=twitter&style=for-the-badge" alt="cadzoey" /></a> </p>
 
 - 📫 How to reach me **sabilarosad76@gmail.com**
